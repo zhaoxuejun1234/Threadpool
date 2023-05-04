@@ -3,5 +3,5 @@
 Finishing a ThreadPool is an efficient way to enhance your C++11 thread skills. In this repo,you will find almost all frequently used features of C++11 thread,including thread,
 mutex,future,condition_variable.
 
-A ThreadPool contains two parts, including threads queue and task queue. ThreadPool tries to pop and push tasks through multiple functions. ThreadPool's core function is function 
+A ThreadPool contains two parts, including threads queue and task queue.  ThreadPool's core function is function 
 Threadpool::Start(). ThreadPool achieves task acquisition,task run and so on.
