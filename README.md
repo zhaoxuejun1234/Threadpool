@@ -7,3 +7,5 @@ A ThreadPool contains two parts, including threads queue and task queue.  Thread
 Threadpool::Start(). ThreadPool achieves task acquisition,task run and so on.
 
 ![UML of ThreadPool:center:](https://github.com/zhaoxuejun1234/Threadpool/blob/master/workspace/Class%20Diagram.png)
+
+<center><img src="/workspace/Class Diagram.png" alt="UML of ThreadPool"></center>
